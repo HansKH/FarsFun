@@ -1,7 +1,7 @@
 ---
 title: "Data analysis of fatal traffic accidents: the fars functions"
-author: "RM Hoek"
-date: "01/07/2017"
+author: "HansKH"
+date: "21/10/2020"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{Data analysis of fatal traffic accidents: the fars functions}
